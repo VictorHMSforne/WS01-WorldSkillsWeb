@@ -1,2 +1,2 @@
 # WS01-WorldSkillsWeb
-Primeiro Atividade em Web para o WorldSkilss
+Primeira Atividade em Web para o WorldSkilss
